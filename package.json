@@ -12,6 +12,7 @@
     "dotenv": "^8.6.0",
     "express": "^4.19.2",
     "mongodb": "^6.6.1",
+    "nanoid": "^5.0.7",
     "urlparser": "^0.3.9"
   },
   "license": "MIT"
